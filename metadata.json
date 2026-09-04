@@ -1,0 +1,7 @@
+{
+  "name": "WaveFM",
+  "description": "Tactile analog-modernist radio tuner and streaming receiver with live frequency dial, worldwide transmitters, schedule, and DSP audio telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
